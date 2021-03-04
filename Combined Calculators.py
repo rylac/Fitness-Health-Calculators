@@ -1,5 +1,6 @@
 ## Fitness and Health Calculators
 ## view readme for info about this project!
+## This file can be run on any computer with Python installed and will ask for user inputs, and then return everything at once.
 
 print ("Welcome to the Fitness and Health Calculator. When prompted, please answer the questions to receive insights on your current health and fitness state.")
 unit_chosen = input('Will you be using metric, or imperial units?')
